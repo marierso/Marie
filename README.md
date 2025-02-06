@@ -7,4 +7,9 @@
 Notre mission ? Donner une nouvelle vie aux vêtements tout en offrant une alternative mode originale et abordable, chaque pièce a une histoire et attend de faire partie de la tienne.
 
 ### ✨ Style unique | 👗 Sélection soignée | 💖 Mode accessible et tendances. 
+------- 
 
+# $\color{pink}{\text{Notre Boutique}}$  
+
+
+![image de la frip](https://github.com/user-attachments/assets/9bb206b8-8377-42b6-8a26-c89c8179f8a1 "Notre Boutique !")
